@@ -1,6 +1,50 @@
 {
   "posts": [
-    { "id": "1", "title": "a title", "author": "Gim" },
-    { "id": "2", "title": "another title", "author": "Gim" }
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "Gim"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "author": "Gim"
+    },
+    {
+      "id": "a8f4",
+      "title": "gkgkgkg",
+      "content": "",
+      "author": ""
+    },
+    {
+      "id": "270f",
+      "title": "아이고",
+      "content": "집갈래",
+      "author": "ㅡㄷ"
+    },
+    {
+      "id": "a456",
+      "title": "멍멍",
+      "content": "도적텍",
+      "author": "1학년"
+    },
+    {
+      "id": "69f0",
+      "title": "1",
+      "content": "ㅇ",
+      "author": "ㅇ"
+    },
+    {
+      "id": "3508",
+      "title": "ㅇㄹ",
+      "content": "ㅇ",
+      "author": "ㅇ"
+    },
+    {
+      "id": "0a51",
+      "title": "그래픽 고인물은 너무 많아",
+      "content": "그래픽 고인물은 너무 많아",
+      "author": "나"
+    }
   ]
 }
